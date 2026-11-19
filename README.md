@@ -1,29 +1,28 @@
-# data-structures-and-algorithms
+# Data Structures and Algorithms
 
-Estruturas de dados e algoritmos clássicos implementados em C, um caderno de estudos em forma de código.
+Classic data structures and algorithms implemented in C, a study notebook in code form.
 
-**Por que C?**
+**Why C?**
 
-Em C, nada vem pronto: não há listas, dicionários nem gerenciamento automático de memória (garbage collector). Cada estrutura precisa ser implementada, alocando memória, manipulando ponteiros e decidindo quando liberá-la. Isso torna visível o que outras linguagens, como Java e Python, oferecem prontas.
+In C, nothing comes built in: there are no lists, no dictionaries, and no automatic memory management (garbage collector). Every structure has to be implemented by hand, allocating memory, handling pointers, and deciding when to free it. This exposes what other languages, such as Java and Python, provide out of the box.
 
-Construir cada estrutura aproxima a teoria da prática: a complexidade de uma operação passa a ser explicada pela implementação e pela forma como os dados estão organizados.
+Building each structure brings theory closer to practice: the complexity of an operation becomes explained by the implementation and by how the data is organized.
 
+## Contents
 
-## Índice
+### Data structures
 
-### Estruturas de dados
+- [ ] Dynamic array
+- [ ] Linked list
+- [ ] Stack
+- [ ] Queue
+- [ ] Hash table
+- [ ] Binary heap
+- [ ] Binary search tree
 
-- [ ] Array dinâmico
-- [ ] Lista ligada
-- [ ] Pilha
-- [ ] Fila
-- [ ] Tabela hash
-- [ ] Heap binário
-- [ ] Árvore binária de busca
+### Algorithms
 
-### Algoritmos
-
-**Ordenação**
+**Sorting**
 - [ ] Insertion sort
 - [ ] Selection sort
 - [ ] Bubble sort
@@ -31,10 +30,10 @@ Construir cada estrutura aproxima a teoria da prática: a complexidade de uma op
 - [ ] Quicksort
 - [ ] Heapsort
 
-**Busca**
-- [ ] Busca linear
-- [ ] Busca binária
+**Searching**
+- [ ] Linear search
+- [ ] Binary search
 
-**Grafos**
+**Graphs**
 - [ ] BFS
 - [ ] DFS

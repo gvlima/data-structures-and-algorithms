@@ -1,5 +1,3 @@
-//
-// Created by gvlima on 11/18/26.
 
 #include "insertion_sort.h"
 
