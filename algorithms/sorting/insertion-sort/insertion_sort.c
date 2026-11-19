@@ -1,9 +1,17 @@
-
 #include "insertion_sort.h"
 
-#include <stdio.h>
 
-int main () {
-    printf("hello world\n");
-    return 0;
+
+int insertion_sort (int *list, int size) {
+    for (int i = 1; i < size; i++) {
+        int currentValue = list[i];
+        int j = i-1;
+
+        while (j >= 0 && list[j] > currentValue) {
+            list[j+1] = list[j];
+            j--;
+        }
+
+        list[j+1] = currentValue;
+    }
 }

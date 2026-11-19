@@ -9,4 +9,5 @@ include_directories(algorithms/sorting/insertion-sort)
 
 add_executable(data_structures_and_algorithms
         algorithms/sorting/insertion-sort/insertion_sort.c
-        algorithms/sorting/insertion-sort/insertion_sort.h)
+        algorithms/sorting/insertion-sort/insertion_sort.h
+        algorithms/sorting/insertion-sort/main.c)

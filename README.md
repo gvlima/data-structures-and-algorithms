@@ -4,9 +4,9 @@ Classic data structures and algorithms implemented in C, a study notebook in cod
 
 **Why C?**
 
-In C, nothing comes built in: there are no lists, no dictionaries, and no automatic memory management (garbage collector). Every structure has to be implemented by hand, allocating memory, handling pointers, and deciding when to free it. This exposes what other languages, such as Java and Python, provide out of the box.
+In C language, nothing comes built in. There are no lists, no dictionaries, and no garbage collector. Every structure has to be implemented by hand, allocating memory, handling pointers, and deciding when to free it. This exposes what other languages, such as Java and Python, provide out of the box.
 
-Building each structure brings theory closer to practice: the complexity of an operation becomes explained by the implementation and by how the data is organized.
+Building each structure brings theory closer to practice, the complexity of an operation becomes explained by the implementation and by how the data is organized.
 
 
 ### Algorithms
