@@ -7,7 +7,7 @@ int main() {
 
     insertion_sort (list, size);
 
-    for (int i = 0; i < 10; i++) {
+    for (int i = 0; i < size; i++) {
         printf("%d ", list[i]);
     }
 
