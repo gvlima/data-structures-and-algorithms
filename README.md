@@ -12,7 +12,7 @@ Building each structure brings theory closer to practice, the complexity of an o
 ### Algorithms
 
 **Sorting**
-- [ ] Insertion sort
+- [x] Insertion sort
 - [ ] Selection sort
 - [ ] Bubble sort
 - [ ] Merge sort
