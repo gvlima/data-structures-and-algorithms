@@ -1,6 +1,6 @@
 #include "insertion_sort.h"
 
-int insertion_sort (int *list, int size) {
+void insertion_sort (int *list, int size) {
     for (int i=1; i<size; i++) {
         int currentValue = list[i];
         int j = i-1;

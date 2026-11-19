@@ -1,7 +1,7 @@
 #ifndef DATA_STRUCTURES_AND_ALGORITHMS_INSERTION_SORT_H
 #define DATA_STRUCTURES_AND_ALGORITHMS_INSERTION_SORT_H
 
-int insertion_sort (int *, int);
+void insertion_sort (int *, int);
 
 #endif
 
