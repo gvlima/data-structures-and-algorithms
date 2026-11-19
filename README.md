@@ -18,7 +18,7 @@ Building each structure brings theory closer to practice: the complexity of an o
 - [ ] Merge sort
 - [ ] Quicksort
 - [ ] Heapsort
-- [ ] 
+
 **Searching**
 - [ ] Linear search
 - [ ] Binary search
