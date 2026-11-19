@@ -8,17 +8,6 @@ In C, nothing comes built in: there are no lists, no dictionaries, and no automa
 
 Building each structure brings theory closer to practice: the complexity of an operation becomes explained by the implementation and by how the data is organized.
 
-## Contents
-
-### Data structures
-
-- [ ] Dynamic array
-- [ ] Linked list
-- [ ] Stack
-- [ ] Queue
-- [ ] Hash table
-- [ ] Binary heap
-- [ ] Binary search tree
 
 ### Algorithms
 
@@ -29,7 +18,7 @@ Building each structure brings theory closer to practice: the complexity of an o
 - [ ] Merge sort
 - [ ] Quicksort
 - [ ] Heapsort
-
+- [ ] 
 **Searching**
 - [ ] Linear search
 - [ ] Binary search
@@ -37,3 +26,13 @@ Building each structure brings theory closer to practice: the complexity of an o
 **Graphs**
 - [ ] BFS
 - [ ] DFS
+
+### Data Structures
+
+- [ ] Dynamic array
+- [ ] Linked list
+- [ ] Stack
+- [ ] Queue
+- [ ] Hash table
+- [ ] Binary heap
+- [ ] Binary search tree
